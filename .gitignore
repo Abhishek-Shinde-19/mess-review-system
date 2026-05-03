@@ -60,7 +60,6 @@ ENV/
 *.ckpt
 *.h5
 *.model
-models/
 checkpoints/
 
 # Coverage
